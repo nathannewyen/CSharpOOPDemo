@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/BakerBees/bin/Debug/netcoreapp3.1/BakerBees.deps.json
+/Users/nhannguyen/Desktop/BakerBees/bin/Debug/netcoreapp3.1/BakerBees.runtimeconfig.json
+/Users/nhannguyen/Desktop/BakerBees/bin/Debug/netcoreapp3.1/BakerBees.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/BakerBees/bin/Debug/netcoreapp3.1/BakerBees.dll
+/Users/nhannguyen/Desktop/BakerBees/bin/Debug/netcoreapp3.1/BakerBees.pdb
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.dll
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.pdb
+/Users/nhannguyen/Desktop/BakerBees/obj/Debug/netcoreapp3.1/BakerBees.genruntimeconfig.cache
